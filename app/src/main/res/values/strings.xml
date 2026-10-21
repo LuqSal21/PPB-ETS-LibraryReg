@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">LibraryReg</string>
+    <string name="splash_tagline">Pendaftaran anggota perpustakaan jadi lebih mudah</string>
+    <string name="loading_data">Memuat data...</string>
+
+    <!-- Pilih Peran -->
+    <string name="pilih_peran_title">Pilih Peran</string>
+    <string name="pilih_peran_subtitle">Silakan pilih peran Anda untuk melanjutkan</string>
+    <string name="calon_anggota">Calon Anggota</string>
+    <string name="calon_anggota_desc">Daftar sebagai anggota perpustakaan baru</string>
+    <string name="petugas">Petugas</string>
+    <string name="petugas_desc">Kelola data dan pendaftaran anggota</string>
+
+    <!-- Login Petugas -->
+    <string name="login_petugas_title">Login Petugas</string>
+    <string name="username">Username</string>
+    <string name="pin_password">PIN / Kata Sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="login_error">Username atau PIN salah</string>
+
+    <!-- Formulir Pendaftaran -->
+    <string name="formulir_pendaftaran_title">Formulir Pendaftaran</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nomor_induk">NRP</string>
+    <string name="nomor_induk_helper">Hanya angka</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="email">Email</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="alamat">Alamat</string>
+    <string name="jenis_keanggotaan">Jenis Keanggotaan</string>
+    <string name="daftar">Daftar</string>
+    <string name="simpan_perubahan">Simpan Perubahan</string>
+
+    <!-- Pendaftaran Berhasil -->
+    <string name="pendaftaran_berhasil_title">Pendaftaran Berhasil</string>
+    <string name="pendaftaran_berhasil_desc">Data Anda telah tersimpan. Terima kasih telah mendaftar.</string>
+    <string name="daftar_anggota_lain">Daftar Anggota Lain</string>
+    <string name="kembali_ke_beranda">Kembali ke Beranda</string>
+
+    <!-- Daftar Anggota -->
+    <string name="daftar_anggota_title">Daftar Anggota</string>
+    <string name="cari_placeholder">Cari nama atau nomor induk...</string>
+    <string name="counter_anggota">%1$d anggota terdaftar</string>
+    <string name="tambah_anggota">+ Tambah</string>
+    <string name="empty_state">Belum ada anggota terdaftar</string>
+    <string name="no_result_state">Anggota tidak ditemukan. Coba kata kunci lain.</string>
+    <string name="logout">Keluar</string>
+
+    <!-- Detail & Edit Anggota -->
+    <string name="detail_anggota_title">Detail Anggota</string>
+    <string name="edit_anggota_title">Edit Anggota</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+
+    <!-- Konfirmasi Hapus -->
+    <string name="konfirmasi_hapus_title">Hapus Anggota?</string>
+    <string name="konfirmasi_hapus_desc">Data %1$s akan dihapus dan tidak dapat dikembalikan.</string>
+    <string name="batal">Batal</string>
+</resources>
