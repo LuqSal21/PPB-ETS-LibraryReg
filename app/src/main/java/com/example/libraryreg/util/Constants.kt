@@ -15,7 +15,6 @@ object Constants {
         "Dosen"
     )
 
-    // Hardcoded credentials for staff simulation (not secure authentication)
     const val STAFF_USERNAME = "petugas"
     const val STAFF_PIN = "123456"
 }
